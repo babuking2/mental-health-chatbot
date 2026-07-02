@@ -198,9 +198,9 @@ The project generates several outputs, including:
 <img width="1000" height="500" alt="text_length_visualization" src="https://github.com/user-attachments/assets/95c43793-cf1a-49c6-a311-2c2dd14f75e3" />
 <img width="1066" height="547" alt="common_words_analysis" src="https://github.com/user-attachments/assets/8c06bec5-0a1e-4da0-958a-7e7064655585" />
 <img width="841" height="517" alt="average_message_length" src="https://github.com/user-attachments/assets/dfd80fbd-5ec4-437d-aeb9-22d686e892a5" />
-<img width="1098" height="581" alt="wordcloud" src="https://github.com/user-attachments/assets/ee0097c9-6a4c-49c8-87d3-68841d4aae48" />
 <img width="1280" height="660" alt="emotion_confusion_matrix" src="https://github.com/user-attachments/assets/3328ca59-d166-4442-9d15-488366c4973f" />
 <img width="1280" height="660" alt="intent_confision_matrix" src="https://github.com/user-attachments/assets/8050e51a-a376-4cb0-8741-246a046d8289" />
+<img width="1098" height="581" alt="wordcloud" src="https://github.com/user-attachments/assets/ee0097c9-6a4c-49c8-87d3-68841d4aae48" />
 <img width="1080" height="1030" alt="image" src="https://github.com/user-attachments/assets/b40ce4c3-92f6-48ef-817b-14b344375a38" />
 
 
