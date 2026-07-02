@@ -1,0 +1,50 @@
+text,intent,emotion,text_length,processed_text,processed_length
+i feel so sad today,sadness,sad,19,feel sad today,14
+i can't stop crying,sadness,sad,19,cant stop cry,13
+i feel empty inside,depression,despair,19,feel empty inside,17
+nothing makes me happy anymore,depression,sad,30,nothing make happy anymore,26
+i feel so anxious,anxiety,fear,17,feel anxious,12
+i'm constantly worried,anxiety,fear,22,im constantly worried,21
+my heart is racing and i'm scared,anxiety,fear,33,heart racing im scared,22
+i can't stop overthinking,anxiety,fear,25,cant stop overthinking,22
+i feel like i'm going to panic,anxiety,fear,30,feel like im going panic,24
+i'm so stressed about work,stress,frustrated,26,im stressed work,16
+i have too much on my plate,stress,frustrated,27,much plate,10
+i feel burned out,stress,exhausted,17,feel burned,11
+i'm exhausted all the time,stress,exhausted,26,im exhausted time,17
+i can't handle the pressure anymore,stress,frustrated,35,cant handle pressure anymore,28
+i feel so lonely,loneliness,sad,16,feel lonely,11
+nobody understands me,loneliness,sad,21,nobody understands,18
+i have no one to talk to,loneliness,sad,24,one talk,8
+i feel isolated from everyone,loneliness,sad,29,feel isolated everyone,22
+i miss having real connections,loneliness,sad,30,miss real connection,20
+i'm so angry all the time,anger,angry,25,im angry time,13
+i want to scream,anger,angry,16,want scream,11
+i can't control my temper,anger,angry,25,cant control temper,19
+i feel like exploding,anger,angry,21,feel like exploding,19
+people keep hurting me,anger,frustrated,22,people keep hurting,19
+i feel worthless,low_self_esteem,despair,16,feel worthless,14
+i hate myself,low_self_esteem,despair,13,hate,4
+i'm a failure,low_self_esteem,sad,13,im failure,10
+i'm not good enough,low_self_esteem,sad,19,im good enough,14
+nobody would miss me,low_self_esteem,despair,20,nobody would miss,17
+i can't sleep at night,sleep_issues,anxious,22,cant sleep night,16
+i keep having nightmares,sleep_issues,fear,24,keep nightmare,14
+i wake up feeling tired,sleep_issues,exhausted,23,wake feeling tired,18
+i lie awake overthinking,sleep_issues,anxious,24,lie awake overthinking,22
+i sleep too much but still feel tired,sleep_issues,exhausted,37,sleep much still feel tired,27
+i need help,seeking_help,anxious,11,need help,9
+can you help me feel better,seeking_help,sad,27,help feel better,16
+i don't know what to do,seeking_help,confused,23,dont know,9
+how do i cope with this,seeking_help,anxious,23,cope,4
+i want to feel better,seeking_help,hopeful,21,want feel better,16
+i'm having a good day,positive,happy,21,im good day,11
+i feel happy today,positive,happy,18,feel happy today,16
+things are getting better,positive,hopeful,25,thing getting better,20
+i feel grateful,positive,happy,15,feel grateful,13
+i'm proud of myself,positive,happy,19,im proud,8
+i feel confused about my life,confusion,confused,29,feel confused life,18
+i don't know who i am anymore,confusion,confused,29,dont know anymore,17
+my future feels uncertain,confusion,anxious,25,future feel uncertain,21
+i feel lost,confusion,confused,11,feel lost,9
+i don't know my purpose,confusion,confused,23,dont know purpose,17

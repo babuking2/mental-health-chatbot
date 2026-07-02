@@ -1,0 +1,50 @@
+text,intent,emotion
+I feel so sad today,sadness,sad
+I can't stop crying,sadness,sad
+I feel empty inside,depression,despair
+Nothing makes me happy anymore,depression,sad
+I feel so anxious,anxiety,fear
+I'm constantly worried,anxiety,fear
+My heart is racing and I'm scared,anxiety,fear
+I can't stop overthinking,anxiety,fear
+I feel like I'm going to panic,anxiety,fear
+I'm so stressed about work,stress,frustrated
+I have too much on my plate,stress,frustrated
+I feel burned out,stress,exhausted
+I'm exhausted all the time,stress,exhausted
+I can't handle the pressure anymore,stress,frustrated
+I feel so lonely,loneliness,sad
+Nobody understands me,loneliness,sad
+I have no one to talk to,loneliness,sad
+I feel isolated from everyone,loneliness,sad
+I miss having real connections,loneliness,sad
+I'm so angry all the time,anger,angry
+I want to scream,anger,angry
+I can't control my temper,anger,angry
+I feel like exploding,anger,angry
+People keep hurting me,anger,frustrated
+I feel worthless,low_self_esteem,despair
+I hate myself,low_self_esteem,despair
+I'm a failure,low_self_esteem,sad
+I'm not good enough,low_self_esteem,sad
+Nobody would miss me,low_self_esteem,despair
+I can't sleep at night,sleep_issues,anxious
+I keep having nightmares,sleep_issues,fear
+I wake up feeling tired,sleep_issues,exhausted
+I lie awake overthinking,sleep_issues,anxious
+I sleep too much but still feel tired,sleep_issues,exhausted
+I need help,seeking_help,anxious
+Can you help me feel better,seeking_help,sad
+I don't know what to do,seeking_help,confused
+How do I cope with this,seeking_help,anxious
+I want to feel better,seeking_help,hopeful
+I'm having a good day,positive,happy
+I feel happy today,positive,happy
+Things are getting better,positive,hopeful
+I feel grateful,positive,happy
+I'm proud of myself,positive,happy
+I feel confused about my life,confusion,confused
+I don't know who I am anymore,confusion,confused
+My future feels uncertain,confusion,anxious
+I feel lost,confusion,confused
+I don't know my purpose,confusion,confused
