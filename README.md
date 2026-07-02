@@ -192,11 +192,8 @@ The project generates several outputs, including:
 
 # 📸 Screenshots
 
-Add screenshots inside:
+<img width="988" height="624" alt="intent_distribution" src="https://github.com/user-attachments/assets/489ecd2c-8603-4bce-bea4-ea6a73083b59" />
 
-```text
-results/screenshots/
-```
 
 Example:
 
