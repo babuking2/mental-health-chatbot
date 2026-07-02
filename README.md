@@ -191,8 +191,17 @@ The project generates several outputs, including:
 ---
 
 # 📸 Screenshots
-
-<img width="988" height="624" alt="intent_distribution" src="https://github.com/user-attachments/assets/489ecd2c-8603-4bce-bea4-ea6a73083b59" />
+<img width="1080" height="696" alt="image" src="https://github.com/user-attachments/assets/93a8b622-5062-4e47-88eb-5400b68390f4" />
+<img width="1200" height="600" alt="common_words_visualization" src="https://github.com/user-attachments/assets/4277ad4e-bbff-4b91-a698-d89fcdcde8fc" />
+<img width="988" height="624" alt="intent_distribution" src="https://github.com/user-attachments/assets/c8a5a1a5-beb6-4e80-85ea-9ffa2d6249bd" />
+<img width="833" height="470" alt="text_length_distribution" src="https://github.com/user-attachments/assets/cd967b05-0d8d-4cb9-8c4d-f95709c46599" />
+<img width="1000" height="500" alt="text_length_visualization" src="https://github.com/user-attachments/assets/95c43793-cf1a-49c6-a311-2c2dd14f75e3" />
+<img width="1066" height="547" alt="common_words_analysis" src="https://github.com/user-attachments/assets/8c06bec5-0a1e-4da0-958a-7e7064655585" />
+<img width="841" height="517" alt="average_message_length" src="https://github.com/user-attachments/assets/dfd80fbd-5ec4-437d-aeb9-22d686e892a5" />
+<img width="1098" height="581" alt="wordcloud" src="https://github.com/user-attachments/assets/ee0097c9-6a4c-49c8-87d3-68841d4aae48" />
+<img width="1280" height="660" alt="emotion_confusion_matrix" src="https://github.com/user-attachments/assets/3328ca59-d166-4442-9d15-488366c4973f" />
+<img width="1280" height="660" alt="intent_confision_matrix" src="https://github.com/user-attachments/assets/8050e51a-a376-4cb0-8741-246a046d8289" />
+<img width="1080" height="1030" alt="image" src="https://github.com/user-attachments/assets/b40ce4c3-92f6-48ef-817b-14b344375a38" />
 
 
 Example:
